@@ -1,0 +1,60 @@
+/* TEAM */
+Project: MARAI-X
+Site: https://marai-x.in
+Contact: shutdown.solutioncompany@gmail.com
+Twitter: @maraix
+Location: Global
+
+/* SITE */
+Last update: 2026/03/25
+Standards: HTML5, CSS3, JavaScript ES6+, React, TypeScript
+Components: Tailwind CSS, shadcn/ui, Lucide Icons
+Software: VS Code, GitHub, Web3Forms
+
+/* TECHNOLOGY */
+Encryption: AES-256-GCM
+Architecture: Client-Side Only, Zero-Knowledge
+Framework: React 18, TypeScript, Vite
+Security: Military-Grade Encryption, No Server Upload
+Privacy: Complete Data Privacy, Local Processing Only
+
+/* FEATURES */
+- Text Encryption & Decryption
+- File Encryption (All Types)
+- Image Encryption with Steganography
+- Secure Key Generation
+- Real-time Processing
+- Cross-Platform Web Application
+- Responsive Design
+- Dark/Light Theme Support
+- PWA Support
+- Offline Capable
+
+/* THANKS */
+Web3Forms - Form Backend
+Tailwind CSS - Styling Framework
+shadcn/ui - UI Components
+Lucide - Icon Library
+React - JavaScript Library
+Vite - Build Tool
+TypeScript - Type Safety
+
+/* META */
+Built with: ❤️ and ☕
+Purpose: Universal Encryption Platform
+Goal: Making encryption accessible to everyone
+Philosophy: Privacy is a fundamental right
+Status: Active Development 🚀
+
+                         _.-'''''-._
+                      .'  _     _  '.
+                     /   (_)   (_)   \
+                    |  ,           ,  |
+                    |  \`.       .`/  |
+                     \  '.`'""'"`.'  /
+                      '.  `'---'`  .'
+                        '-._____.-'
+
+                    MARAI-X Encryption
+                   One Engine. Total Privacy.
+                      Zero Compromise.

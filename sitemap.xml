@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://marai-x.in/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://marai-x.in/og-image.png</image:loc>
+            <image:title>MARAI-X - Advanced Universal Encryption Platform</image:title>
+            <image:caption>Military-grade encryption for text, files, and images</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Dashboard / Encryption Tool -->
+    <url>
+        <loc>https://marai-x.in/dashboard.html</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://marai-x.in/dashboard-screenshot.png</image:loc>
+            <image:title>MARAI-X Encryption Dashboard</image:title>
+            <image:caption>Encrypt text, files, and images with AES-256-GCM</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Section Anchors (for better indexing) -->
+    <url>
+        <loc>https://marai-x.in/#technology</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://marai-x.in/#security</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://marai-x.in/#performance</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://marai-x.in/#privacy</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://marai-x.in/#demo</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>

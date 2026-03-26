@@ -1,0 +1,26 @@
+Contact: mailto:security@marai-x.in
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://marai-x.in/.well-known/security.txt
+Policy: https://marai-x.in/security-policy
+Acknowledgments: https://marai-x.in/security-acknowledgments
+Hiring: https://marai-x.in/careers
+
+# MARAI-X Security Disclosure
+# We take security seriously and appreciate responsible disclosure.
+#
+# If you believe you've found a security vulnerability in MARAI-X,
+# please contact us at security@marai-x.in
+#
+# Please include:
+# - Description of the vulnerability
+# - Steps to reproduce
+# - Potential impact
+# - Suggested remediation (if any)
+#
+# We commit to:
+# - Acknowledge receipt within 24 hours
+# - Provide regular updates on the issue
+# - Credit researchers in our security acknowledgments (if desired)
+#
+# Thank you for helping keep MARAI-X and our users safe!
